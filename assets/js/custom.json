@@ -3,12 +3,36 @@
         "Actor",
         "Teacher",
         "Freelancer",
-        "Adrenaline Junkie",
+        "Community Builder",
         "Web Developer"
     ],
     "projects": [
-  
-        
+
+        {
+            "title": "New Yorkers for Bangladeshi Mutual Aid",
+            "desc": "Developed for NY4BDMA: An organization that provides resources to the local Bangladeshi community as a response to Covid-19.",
+            "img": "ny4bdma-home-screen.png",
+            "link": "https://github.com/mxabibuilds/ny4bdma"
+        },
+        {
+            "title": "MyBook",
+            "desc": "A responsive Facebook like web app.",
+            "img": "finished_profile.png",
+            "link": "https://github.com/mxabibuilds/mybook"
+        },
+        {
+            "title": "Centre News",
+            "desc": "A responsive web app to combat polarizing media bias by presenting a variety of politically diverse news sources on the same website.",
+            "img": "centre-news.png",
+            "link": "https://navidmx.com/news",
+            "award": "Winner of 2017 Congressional App Challenge/nlNew York 12th District"
+        },
+        {
+            "title": "College Organizer",
+            "desc": "A personal project, designed to automate a large portion of the tedious college researching process, using College Scorecard API and Firebase.",
+            "img": "college-organizer.png",
+            "link": "https://navidmx.com/college"
+        }
         
     ],
     "skills": [
@@ -33,8 +57,12 @@
             "desc": "The relational database management system behind many of my projects, I have thorough experience querying and sorting through SQL."
         },
         {
-            "name": "editors",
-            "desc": "Two of the most robust and widely used media editors of all time, I have decent experience with Photoshop and Illustrator, from photo editing and typography to optimizing media for web development."
+            "name": "go",
+            "desc": "The back-end language behind my internship experience at Pantheon Platform. I use Golang to build microservices during my internship and then to build a discord bot as a side project."
+        },
+        {
+            "name": "python",
+            "desc": "The back-end language."
         }
     ]
 }
