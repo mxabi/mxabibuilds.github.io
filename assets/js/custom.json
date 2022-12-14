@@ -16,24 +16,10 @@
         },
         {
             "title": "MyBook",
-            "desc": "A responsive Facebook like web app.",
+            "desc": "A responsive Facebook like web app using PHP, HTML, CSS, and MYSQL.",
             "img": "finished_profile.png",
             "link": "https://github.com/mxabibuilds/mybook"
-        },
-        {
-            "title": "Centre News",
-            "desc": "A responsive web app to combat polarizing media bias by presenting a variety of politically diverse news sources on the same website.",
-            "img": "centre-news.png",
-            "link": "https://navidmx.com/news",
-            "award": "Winner of 2017 Congressional App Challenge/nlNew York 12th District"
-        },
-        {
-            "title": "College Organizer",
-            "desc": "A personal project, designed to automate a large portion of the tedious college researching process, using College Scorecard API and Firebase.",
-            "img": "college-organizer.png",
-            "link": "https://navidmx.com/college"
         }
-        
     ],
     "skills": [
         {
